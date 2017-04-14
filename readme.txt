@@ -3,5 +3,5 @@ Git is free software.
 --liyaping-007
 Git has a mutable index called stage.
 hello , modified again!
-Git tracks changes.
+Git tracks changes if files.
 
